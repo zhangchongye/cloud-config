@@ -1,2 +1,5 @@
 server:
   name : testName
+
+config:
+  info: 111aa
